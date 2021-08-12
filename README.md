@@ -8,15 +8,14 @@ You might find me talking to a cat or weeping.
 - 🔭 I’m currently working on how to not cry when I get an error.
 - 🌱 I’m currently learning how to make a responsive webpage. Sigh. This is never ending.
 - 💬 Ask me about anything. Let's google together ;)
-- 📫 How to reach me: <a href="https://www.instagram.com/n3hx__/">Instagram</a>
+- 📫 How to reach me: <a href="https://www.instagram.com/nehahahaaha_/">Instagram</a>
 - 😄 Pronouns: She/her 🏳‍🌈
 - ⚡ Fun fact: I'm a cat trapped in a human being's body.
 
 ![](https://komarev.com/ghpvc/?username=neha-ajith&color=green&style=plastic)
 
 ### Find me on:
-<a href = 'https://www.instagram.com/n3hx__/'><img src = 'assets/instagram.png' width='40'></a>
-<a href = 'https://twitter.com/n3hx_'><img src = 'assets/twitter.png' width='40'></a>
+<a href = 'https://www.instagram.com/nehahahaaha_/'><img src = 'assets/instagram.png' width='40'></a>
 <a href = 'https://www.linkedin.com/in/neha-ajith/'><img src = 'assets/linkedin.png' width='40'></a>
 
 <details>
