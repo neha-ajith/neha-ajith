@@ -5,8 +5,8 @@
 
 ## I'm Neha, studying at <a href='http://rit.ac.in/'>RIT, Kottayam</a>.
 You might find me talking to a cat or weeping. 
-- 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning how to make a responsive webpage.
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning flutter.
 - 💬 Ask me about anything. Let's google together ^ _ ^ 
 - 📫 How to reach me: <a href="https://www.instagram.com/nehahahaaha_/">Instagram</a>
 - 😄 Pronouns: She/her 🏳‍🌈
