@@ -6,7 +6,7 @@
 ## I'm Neha, studying at <a href='http://rit.ac.in/'>RIT, Kottayam</a>.
 You might find me talking to a cat or weeping. 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything. Let's google together ^ _ ^ 
 - 📫 How to reach me: <a href="https://www.instagram.com/nehahahaaha_/">Instagram</a>
 - 😄 Pronouns: She/her 🏳‍🌈
@@ -18,16 +18,14 @@ You might find me talking to a cat or weeping.
 <a href = 'https://www.instagram.com/nehahahaaha_/'><img src = 'assets/instagram.png' width='40'></a>
 <a href = 'https://www.linkedin.com/in/neha-ajith/'><img src = 'assets/linkedin.png' width='40'></a>
 
-<details>
-<summary>
-  <b>Github Stats</b>
-</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=neha-ajith&show_icons=true&theme=chartreuse-dark" />
-</details>
 
-<details>
-<summary>
+  <b>Github Stats</b>
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=neha-ajith&show_icons=true&theme=chartreuse-dark" />
+
+
+
   <b>Languages Used</b>
-</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-ajith&show_icons=true&theme=chartreuse-dark" />
-</details>
+
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-ajith&show_icons=true&theme=chartreuse-dark&layout=compact" />
+
