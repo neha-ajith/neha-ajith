@@ -23,16 +23,16 @@ You might find me talking to a cat or weeping.
 <a href = 'https://www.linkedin.com/in/neha-ajith/'><img src = 'assets/linkedin.png' width='40'></a>
 
 ## Languages Used
-<a href = '#'><img src = 'assets/clang.png' width='40'></a>
-<a href = '#'><img src = 'assets/cpp.png' width='40'></a>
+<a href = '#'><img src = 'assets/clang.png' width='45'></a>
+<a href = '#'><img src = 'assets/cpp.png' width='45'></a>
 <a href = '#'><img src = 'assets/dart.png' width='40'></a>
 <a href = '#'><img src = 'assets/python.png' width='40'></a>
 
 ## Technologies Used
-<a href = '#'><img src = 'assets/Flutter.png' width='40'></a>
+<a href = '#'><img src = 'assets/Flutter.png' width='50'></a>
 <a href = '#'><img src = 'assets/figma.png' width='40'></a>
 <a href = '#'><img src = 'assets/git.png' width='40'></a>
-<a href = '#'><img src = 'assets/linux.png' width='40'></a>
+<a href = '#'><img src = 'assets/linux.png' width='35'></a>
 
 <b>Github Stats</b>
 
