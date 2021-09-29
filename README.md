@@ -15,7 +15,7 @@ You might find me talking to a cat or weeping.
 - 😄 Pronouns: She/her 🏳‍🌈
 - ⚡ Fun fact: I'm a cat trapped in a human being's body.
 
-![](https://komarev.com/ghpvc/?username=neha-ajith&color=green&style=plastic)
+<!-- ![](https://komarev.com/ghpvc/?username=neha-ajith&color=green&style=plastic) -->
 
 ### Find me on:
 
