@@ -11,7 +11,7 @@ You might find me talking to a cat or weeping.
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything. Let's google together ^ \_ ^
-- 📫 How to reach me: <a href="https://www.instagram.com/nehahahaaha_/">Instagram</a>
+- 📫 How to reach me: <a href="https://t.me/tdotneha">Telegram</a>
 - 😄 Pronouns: She/her 🏳‍🌈
 - ⚡ Fun fact: I'm a cat trapped in a human being's body.
 
