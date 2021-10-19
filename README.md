@@ -8,7 +8,7 @@
 
 You might find me talking to a cat or weeping.
 
-- 🔭 I’m currently working on something cool.
+- 🔭 I’m currently trying out Linux for the first time.
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything. Let's google together ^ \_ ^
 - 📫 How to reach me: <a href="https://t.me/tdotneha">Telegram</a>
