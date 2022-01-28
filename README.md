@@ -8,7 +8,7 @@
 
 You might find me talking to a cat or weeping.
 
-- 🔭 I’m currently building stuff as a coping mechanism.
+- 🔭 I’m currently suicidal.
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about anything. Let's google together ^ \_ ^
 - 📫 How to reach me: <a href="https://github.com/neha-ajith/neha-ajith/issues/new">Here</a>
