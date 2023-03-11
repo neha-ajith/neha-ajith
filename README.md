@@ -9,7 +9,7 @@
 You might find me talking to a cat or weeping.
 
 - 🔭 I’m currently working on my major project.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about anything. Let's google together ^ \_ ^
 - 📫 How to reach me: <a href="https://github.com/neha-ajith/neha-ajith/issues/new">Here</a>
 - 😄 Pronouns: She/her 🏳‍🌈
