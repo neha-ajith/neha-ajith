@@ -4,12 +4,12 @@
     <img src = 'assets/cat.gif' width = '300' >
 </p>
 
-## I'm Neha, a CS senior studying at <a href='http://rit.ac.in/'>RIT, Kottayam</a>.
+## I'm Neha, a software developer.
 
 You might find me talking to a cat or weeping.
 
-- 🔭 I’m currently working on my major project.
-- 🌱 I’m currently learning React.
+- 🔭 I’m currently working on a full stack project.
+- 🌱 I’m currently learning Nest.js.
 - 💬 Ask me about anything. Let's google together ^ \_ ^
 - 📫 How to reach me: <a href="https://github.com/neha-ajith/neha-ajith/issues/new">Here</a>
 - 😄 Pronouns: She/her 🏳‍🌈
