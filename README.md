@@ -23,6 +23,9 @@ You might find me talking to a cat or weeping.
 <a href = 'https://www.linkedin.com/in/neha-ajith/'><img src = 'assets/linkedin.png' width='40'></a>
 
 ## Languages Used
+
+<a href = '#'><img src = 'assets/csharp.png' width='45'></a>
+<a href = '#'><img src = 'assets/typescript.png' width='45'></a>
 <a href = '#'><img src = 'assets/clang.png' width='45'></a>
 <a href = '#'><img src = 'assets/cpp.png' width='45'></a>
 <a href = '#'><img src = 'assets/dart.png' width='40'></a>
@@ -30,16 +33,15 @@ You might find me talking to a cat or weeping.
 <a href = '#'><img src = 'assets/js.png' width='40'></a>
 
 ## Technologies Used
+
+<a href = '#'><img src = 'assets/angular.png' width='50'></a>
+<a href = '#'><img src = 'assets/nestjs.png' width='50'></a>
 <a href = '#'><img src = 'assets/Flutter.png' width='50'></a>
 <a href = '#'><img src = 'assets/figma.png' width='40'></a>
 <a href = '#'><img src = 'assets/git.png' width='40'></a>
 <a href = '#'><img src = 'assets/linux.png' width='35'></a>
 <a href = '#'><img src = 'assets/react.png' width='35'></a>
 
-<!-- <b>Github Stats</b> -->
-
 <p> <img src="https://github-readme-stats.vercel.app/api?username=neha-ajith&show_icons=true&theme=chartreuse-dark" />
-
-<!-- <b>Languages Used</b> -->
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-ajith&show_icons=true&theme=chartreuse-dark&layout=compact" />
