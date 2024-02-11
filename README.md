@@ -8,7 +8,7 @@
 
 You might find me talking to a cat or weeping.
 
-- 🔭 I’m currently working on a full stack project.
+- 🔭 I’m currently working with Node.js and friends :)
 - 🌱 I’m currently learning Nest.js.
 - 💬 Ask me about anything. Let's google together ^ \_ ^
 - 📫 How to reach me: <a href="https://github.com/neha-ajith/neha-ajith/issues/new">Here</a>
