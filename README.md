@@ -9,7 +9,7 @@
 You might find me talking to a cat or weeping.
 
 - 🔭 I’m currently working with Node.js and friends :)
-- 🌱 I’m currently learning Nest.js.
+- 🌱 I’m currently learning a lot of things.
 - 💬 Ask me about anything. Let's google together ^ \_ ^
 - 📫 How to reach me: <a href="https://github.com/neha-ajith/neha-ajith/issues/new">Here</a>
 - 😄 Pronouns: She/her 🏳‍🌈
@@ -19,7 +19,6 @@ You might find me talking to a cat or weeping.
 
 ### Find me on:
 
-<a href = 'https://www.instagram.com/nehahahaaha_/'><img src = 'assets/instagram.png' width='40'></a>
 <a href = 'https://www.linkedin.com/in/neha-ajith/'><img src = 'assets/linkedin.png' width='40'></a>
 
 ## Languages Used
