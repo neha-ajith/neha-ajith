@@ -40,7 +40,3 @@ You might find me talking to a cat or weeping.
 <a href = '#'><img src = 'assets/git.png' width='40'></a>
 <a href = '#'><img src = 'assets/linux.png' width='35'></a>
 <a href = '#'><img src = 'assets/react.png' width='35'></a>
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=neha-ajith&show_icons=true&theme=chartreuse-dark" />
-
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-ajith&show_icons=true&theme=chartreuse-dark&layout=compact" />
